@@ -7,7 +7,7 @@ This repository aims to have only a few dependencies : The [Paraview](https://ww
 Download or clone this project :
 
 ```user
-git clone 
+git clone https://github.com/LeDernier/CFD_Visualization_VR_App.git
 ```
 
 In the just created folder, create a folder **objs** and run **Paraview** :
