@@ -1,6 +1,6 @@
-# CFD_Visualization_VR_App
+# CFD Visualization VR App
 Scripts and app that let you export Paraview data and view them with an HMD.
-This repository aims to have only a few dependencies : The [Paraview](https://www.paraview.org/) software and [Python 2.7](https://www.python.org/). For now, this will only work on Linux.
+This repository aims to have few dependencies : The [Paraview](https://www.paraview.org/) software and [Python 2.7](https://www.python.org/). For now, this will only work on Linux.
 
 ## Instructions
 
@@ -13,7 +13,7 @@ git clone https://github.com/LeDernier/CFD_Visualization_VR_App.git
 In the just created folder, create a folder **objs** and run **Paraview** :
 
 ```user
-cd CFD_Visualisation_VR_App
+cd CFD-visualisation-VR-app
 mkdir objs
 paraview
 ```
